@@ -1,4 +1,7 @@
 //DEVANSH BHATIA (14CSU056)
+
+// Given a string replace all the occurrences of all words starting with itm like itm, itmindia, itmindia.edu with ncu
+
 import java.util.Scanner;
 import java.util.regex.*;
 public class ItmtoNcu {

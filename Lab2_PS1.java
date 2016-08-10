@@ -1,4 +1,9 @@
 //Devansh Bhatia (14CSU056)
+
+// Take two input from users Pattern and Matcher. And find 
+// a. If Pattern matches Matcher
+// b. If Pattern is present as substring in Matcher and at what position.
+
 import java.util.Scanner;
 import java.util.regex.*;
 public class Regex1 {

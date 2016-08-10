@@ -1,4 +1,7 @@
 //Devansh Bhatia (14CSU056)
+
+//Check whether the Time(24 hr Format) taken as input is valid or not 
+
 import java.util.Scanner;
 import java.util.regex.*;
 public class time {

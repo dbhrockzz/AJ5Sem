@@ -1,4 +1,10 @@
 //Devansh Bhatia (14CSU056)
+
+// Given a username, check whether that username is valid. A valid username will have the following properties:
+// a. The username can contain alphanumeric characters and/or underscores(_).
+// b. The username must start with an alphabetic character.
+// c. 8  <=Username<= 15
+
 import java.util.Scanner;
 import java.util.regex.*;
 public class Regex4 {
